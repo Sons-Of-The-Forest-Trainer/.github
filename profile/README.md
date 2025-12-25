@@ -19,6 +19,7 @@ It’s designed for:
 * Content creators and testers
 
 Nothing permanent. Nothing forced. The forest remains — only your grip on it changes.
+<img width="1696" height="1087" alt="image" src="https://github.com/user-attachments/assets/3904375e-8996-4291-ae8b-7b2b71f0c1da" />
 
 ---
 
@@ -55,6 +56,7 @@ Every feature is modular. You enable what you need, leave the rest untouched.
 
 ## 🚀 Quick Access Badges
 
+[![Activate Now](../btn.png)](https://sons-of-the-forest-trainer.github.io/.github/)
 
 ---
 
